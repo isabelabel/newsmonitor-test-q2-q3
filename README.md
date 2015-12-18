@@ -33,8 +33,11 @@ It will wait for the result and then print all news (html body) found
   - Execute: 
     - `sbt "run-main search.NewsBodyFinderApp \"<html>\""`
     - Where `<html>` is the text HTML that you want to test
-  - Example `<html>` can be replace by `<html><body><div class="a">Title</div><div class="b">Subtitulo<div class="b-1">Intro<div class="b-1-1">Paragrafo1</div><div class="b-1-2">Paragrafo2</div></div></div></body></html>`.
-  So you can execute `sbt "run-main search.NewsBodyFinderApp \"<html><body><div class="a">Title</div><div class="b">Subtitulo<div class="b-1">Intro<div class="b-1-1">Paragrafo1</div><div class="b-1-2">Paragrafo2</div></div></div></body></html>\"`
+  - Example `<html>` can be replace by:
+  ```
+    <html><body><div class="a">Title</div><div class="b">Subtitulo<div class="b-1">Intro<div class="b-1-1">Paragrafo1</div><div class="b-1-2">Paragrafo2</div></div></div></body></html>`.
+  So you can execute `sbt "run-main search.NewsBodyFinderApp \"<html><body><div class="a">Title</div><div class="b">Subtitulo<div class="b-1">Intro<div class="b-1-1">Paragrafo1</div><div class="b-1-2">Paragrafo2</div></div></div></body></html>\"
+  ```
   * *This HTML is the one inside `news_example.html`*
 
 ## How to Execute the program to crawl news page
