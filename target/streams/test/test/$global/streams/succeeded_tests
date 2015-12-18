@@ -1,0 +1,17 @@
+#Successful Tests
+#Thu Dec 17 04:49:26 BRT 2015
+core.BaseTest=1450338560266
+core.LinkDownloaderActorTest=1450338566590
+br.com.newsmonitor.q2.bussines.BasicScoreCalculatorTest=1450033871039
+core.BasicLinkExtractorTest=1450318845179
+core.DefaultCrawlerCoreActorWithMockRequisitionTest=1450318845755
+core.DefaultNewsExtractorActorTest=1450338563401
+core.CrawlerCoreActorTest=1450338560471
+search.BasicScoreCalculatorTest=1450338559835
+core.DefaultLinkExtractorActorTest=1450338560470
+search.BasicNewsBodyFinderTest=1450338559867
+bussines.BasicArticleFinderTest=1450039848784
+br.com.newsmonitor.q2.bussines.BasicArticleFinderTest=1450033871044
+bussines.BasicScoreCalculatorTest=1450240717914
+bussines.BasicNewsBodyFinderTest=1450240717966
+core.LinkDownloaderTest=1450318845856

@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mBasicNewsBodyFinderTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- should calc the scores of the all the 5 nodes[0m[0m
+[0m[[0minfo[0m] [0m[32m- should give the Node of the most likely article node that is 'div.b'[0m[0m
+[0m[[0minfo[0m] [0m[32m- should give the HTML of the most likely article node that is 'div.b'[0m[0m

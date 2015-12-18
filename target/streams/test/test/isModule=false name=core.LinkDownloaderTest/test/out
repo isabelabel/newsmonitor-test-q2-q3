@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mLinkDownloaderTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- should request the link, send the response to the child and the child should response back successfully[0m[0m
+[0m[[0minfo[0m] [0m[32m- should request the link, receive a bad response with status error and then send None back[0m[0m
+[0m[[0minfo[0m] [0m[32m- should request the link, failure in the download and then send None back[0m[0m
