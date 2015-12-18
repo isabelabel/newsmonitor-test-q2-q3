@@ -1,4 +1,0 @@
-[0m[[0minfo[0m] [0m[32mLinkDownloaderActorTest:[0m[0m
-[0m[[0minfo[0m] [0m[32m- should request the link and send a message back with the response data and the passed link[0m[0m
-[0m[[0minfo[0m] [0m[32m- should request the link, receive a bad response with status error and then send None back[0m[0m
-[0m[[0minfo[0m] [0m[32m- should request the link, failure in the download and then send None back[0m[0m

@@ -1,3 +1,0 @@
-[0m[[0minfo[0m] [0m[32mDefaultNewsExtractorActorTest:[0m[0m
-[0m[[0minfo[0m] [0m[32m- should send back the HTML of the most likely news node that is 'div.b'[0m[0m
-[0m[[0minfo[0m] [0m[32m- should return None when it's not possible to finder the news[0m[0m

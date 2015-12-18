@@ -1,3 +1,0 @@
-[0m[[0minfo[0m] [0m[32mBasicLinkExtractorTest:[0m[0m
-[0m[[0minfo[0m] [0m[32m- should return all the links without duplicated and origin not remove other domain[0m[0m
-[0m[[0minfo[0m] [0m[32m- should return all the links without duplicated, origin and not allowed domain[0m[0m
