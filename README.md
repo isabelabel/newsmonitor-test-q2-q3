@@ -40,8 +40,8 @@ It will wait for the result and then print all news (html body) found
 ## How to Execute the program to crawl news page
 
   - Execute:
-  - `sbt "run-main core.CrawlerApp <start_ulr> <levels>"` 
-  - Where `<start_url>` is the url where the crawler has to start to look for the news and `<levels>` is the number that
+    - `sbt "run-main core.CrawlerApp <start_ulr> <levels>"` 
+    - Where `<start_url>` is the url where the crawler has to start to look for the news and `<levels>` is the number that
   represents how deeply the crawler should go
   - `sbt "run-main core.CrawlerApp http://www.terra.com.br/ 0"`
 
